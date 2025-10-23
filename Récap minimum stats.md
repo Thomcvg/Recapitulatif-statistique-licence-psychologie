@@ -162,4 +162,3 @@ Les risques principaux encourus dans le cas d'étude sous-puissante sont (Vankel
 ## Loi normale et exemple du QI
 ## Z score et comparaison à la population de référence
 
-# Psychométrie ?
