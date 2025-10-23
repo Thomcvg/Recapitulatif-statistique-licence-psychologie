@@ -40,7 +40,7 @@ Les limites de cet intervalle sont le minimum et le maximum de la variable.
 
 ## Exemple sur Jamovi
 ![Exemple Jamovi V1](Files/Exemple_dummies.omv)
-📊 [Télécharger le fichier Jamovi (.omv)](https://raw.githubusercontent.com/ThomasCvg/Recapitulatif-statistique-licence-psychologie/main/Files/Exemple_dummies.omv)
+📊 [Télécharger le fichier Jamovi (.omv)](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/main/Files/Exemple_dummies.omv)
 
 ## Description d'une variable
 ### Indice de tendance central
