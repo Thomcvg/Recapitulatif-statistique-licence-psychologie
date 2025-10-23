@@ -39,7 +39,6 @@ Les limites de cet intervalle sont le minimum et le maximum de la variable.
 	* vitesse de course
 
 ## Exemple sur Jamovi
-![Exemple Jamovi V1](Files/Exemple_dummies.omv)
 📊 [Télécharger le fichier Jamovi (.omv)](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/main/Files/Exemple_dummies.omv)
 
 ## Description d'une variable
@@ -117,9 +116,9 @@ Cet article explique que les tests paramétriques classiques peuvent produire de
 Petit rappel Jamovi :
 * Une colonne = une variable
 * Il faut bien catégoriser notre variable 
- ![Fichier exemple.csv](Files/Exemple_dummies.csv)
- ![Fichier exemple.xls](Files/Exemple_dummies.xls)
-![Exemple jamovi V2](Files/exemple_stat.omv)
+  [Fichier exemple.csv](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/Exemple_dummies.csv)
+  [Fichier exemple.xls](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/Exemple_dummies.xls)
+[Exemple jamovi V2](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/exemple_stat.omv)
 #### T Student
 Permet de tester une différence de résultat quantitatif en fonction de 2 groupes. Utilisable pour des échantillons appariés et indépendants (Attention à bien sélectionner notre cas dans Jamovi).
 #### Corrélation bravais-pearson
