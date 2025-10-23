@@ -39,7 +39,7 @@ Les limites de cet intervalle sont le minimum et le maximum de la variable.
 	* vitesse de course
 
 ## Exemple sur Jamovi
-![[Exemple_dummies.omv]]
+![Exemple Jamovi V1](Files/Exemple_dummies.omv)
 
 ## Description d'une variable
 ### Indice de tendance central
@@ -112,13 +112,12 @@ Erceg-Hurn, D. M., & Mirosevich, V. (2008). Modern robust statistical methods: a
 
 Cet article explique que les tests paramétriques classiques peuvent produire des résultats erronés si leurs hypothèses (dont la norma lité) sont violées, mais qu'ils restent très robustes dans la plupart des cas pratiques, notamment lorsque la taille d'échantillon est suffisante et que les violations ne sont pas extrêmes. Les auteurs encouragent néanmoins l’utilisation occasionnelle de méthodes robustes ou non paramétriques quand la situation l’exige (données très asymétriques, petites tailles de groupe, etc.), mais confirment que dans la majorité des cas rencontrés en psychologie, les tests paramétriques restent appropriés.
 ### Exemple Jamovi
-![[Exemple_dummies.omv]]
 Petit rappel Jamovi :
 * Une colonne = une variable
 * Il faut bien catégoriser notre variable 
  ![Fichier exemple.csv](Files/Exemple_dummies.csv)
-![[Exemple_dummies.xls]]
-![[exemple_stat.omv]]
+ ![Fichier exemple.xls](Files/Exemple_dummies.xls)
+![Exemple jamovi V2](Files/exemple_stat.omv)
 #### T Student
 Permet de tester une différence de résultat quantitatif en fonction de 2 groupes. Utilisable pour des échantillons appariés et indépendants (Attention à bien sélectionner notre cas dans Jamovi).
 #### Corrélation bravais-pearson
