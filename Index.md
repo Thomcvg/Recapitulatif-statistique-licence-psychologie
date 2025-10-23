@@ -117,9 +117,9 @@ Petit rappel Jamovi :
 * Une colonne = une variable
 * Il faut bien catégoriser notre variable
   
-📊 [Télécharger le Fichier exemple.csv](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/Exemple_dummies.csv)
-  📊 [Télécharger le fichier exemple.xls](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/Exemple_dummies.xls)
-📊 [Télécharger le fichier jamovi V2](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/mainFiles/exemple_stat.omv)
+📊 [Télécharger le Fichier exemple.csv](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/main/Files/Exemple_dummies.csv)
+  📊 [Télécharger le fichier exemple.xls](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/main/Files/Exemple_dummies.xls)
+📊 [Télécharger le fichier jamovi V2](https://raw.githubusercontent.com/Thomcvg/Recapitulatif-statistique-licence-psychologie/main/Files/exemple_stat.omv)
 
 #### T Student
 Permet de tester une différence de résultat quantitatif en fonction de 2 groupes. Utilisable pour des échantillons appariés et indépendants (Attention à bien sélectionner notre cas dans Jamovi).
