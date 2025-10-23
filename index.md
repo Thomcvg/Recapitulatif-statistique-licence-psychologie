@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Stats descriptives
 Permet de décrire les données recueillies.
 ## Population, échantillonnage
