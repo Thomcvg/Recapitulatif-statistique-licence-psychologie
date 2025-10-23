@@ -47,9 +47,9 @@ Les limites de cet intervalle sont le minimum et le maximum de la variable.
 C'est la somme des valeurs observées, divisée par le nombre d'observations.
 #### Médiane et mode
 ##### Tableau d'effectif et fréquence
-![[Capture d'écran 2025-10-01 165958.png]]
+![Tableau effectif 1](Files/Capture-d'écran-2025-10-01.png)
 
-![[Pasted image 20251001170038.png]]
+![Tableau effectif 2](Files/Pasted-image-20251001170038.png)
 ##### Mode
 On utilise le mode pour les variables qualitatives nominales.
 Il s'agit de la modalité la plus répondu par l'échantillon. 
@@ -75,7 +75,7 @@ Les quantilages classiques :
 * Décilage : On découpe la distribution en 10 tranches ce qui détermine donc 9 déciles, D1, D2, D3, D4, D5, D6, D7, D8 et D9 (D5 correspond à la médiane). 
 * Centilage : On découpe la distribution en 100 tranches ce qui détermine donc 99 centiles, de C1 à C99 (C50 correspond à la médiane).
 
-![[Pasted image 20251001171617.png]]
+![Boite à moustache](Files/Pasted-image-20251001171617.png)
  
 # Stats inférentielles
 Permet d'inférer les caractéristiques d'un ensemble plus large à partir d'un ensemble restreint.
