@@ -99,7 +99,7 @@ Chacun de ces indicateurs possède ses propres standards d'interprétation.
 ![[Pasted image 20251001180403.png]]
  Pour le r de Pearson : on parle souvent de très faible (<0,2), faible (0,2-0,4), modérée (0,4-0,6), forte (0,6-0,8), très forte (≥0,8).
 ## Arbre de décision et choix de test
-![[Pasted image 20251001180623.png]]
+![Arbre de décision de test](Files/Pasted-image-20251001180623.png)
 ### Paramétrique vs non paramétrique
 L'emploi de test paramétrique ou non paramétrique se décide selon le degrés de normalité de la distribution des résultats. Il n'y a pas de standards pour prendre cette décision (hormis Shapiro-wilk mais vraiment pas idéal). Fondamentalement, un test paramétrique est plus précis qu'un non paramétrique, lorsque les 2 sont possibles, il vaut mieux utiliser du paramétrique.
 Pour déterminer la normalité, on peut :
@@ -116,7 +116,7 @@ Cet article explique que les tests paramétriques classiques peuvent produire de
 Petit rappel Jamovi :
 * Une colonne = une variable
 * Il faut bien catégoriser notre variable 
-![[Exemple_dummies.csv]]
+ ![Fichier exemple.csv](Files/Exemple_dummies.csv)
 ![[Exemple_dummies.xls]]
 ![[exemple_stat.omv]]
 #### T Student
