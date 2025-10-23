@@ -97,7 +97,8 @@ En psycho à Nantes, on nous enseigne principalement :
 
 Chacun de ces indicateurs possède ses propres standards d'interprétation.
 ![Standards de taille d'effet](Files/Pasted-image-20251001180403.png)
- Pour le r de Pearson : on parle souvent de très faible (<0,2), faible (0,2-0,4), modérée (0,4-0,6), forte (0,6-0,8), très forte (≥0,8).
+
+Pour le r de Pearson : on parle souvent de très faible (<0,2), faible (0,2-0,4), modérée (0,4-0,6), forte (0,6-0,8), très forte (≥0,8).
 ## Arbre de décision et choix de test
 ![Arbre de décision de test](Files/Pasted-image-20251001180623.png)
 ### Paramétrique vs non paramétrique
